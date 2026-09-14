@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-class BullbeSort{
+class BullbeSort {
 
 	public static void main(String[] args) {
 		int[] arr= {2,3,5,4,1};
