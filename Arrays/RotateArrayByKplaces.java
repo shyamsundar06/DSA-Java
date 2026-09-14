@@ -9,7 +9,7 @@ class RotateArraybyKplaces{//BRUTE FORCE APPROACH
 		
 		int temp[]=new int[k];
 		
-		for(int i=0;i<k;i++)
+		for (int i=0;i<k;i++)
 		{
 			temp[i]=arr[i];
 		}
