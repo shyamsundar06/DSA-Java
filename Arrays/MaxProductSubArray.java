@@ -1,6 +1,5 @@
 import java.util.*;
-
-public class MaximumProductSubarray {
+class MaximumProductSubarray {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
