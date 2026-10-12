@@ -36,6 +36,5 @@ public class MajorityElement {
         }
 
         System.out.println(count > n / 2 ? candidate : -1);
-        sc.close();
     }
 }
