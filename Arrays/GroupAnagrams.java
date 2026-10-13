@@ -1,4 +1,3 @@
-
 import java.util.*;
 
 public class GroupAnagrams {
@@ -21,7 +20,5 @@ public class GroupAnagrams {
         for (List<String> group : map.values()) {
             System.out.println(group);
         }
-
-        sc.close();
     }
 }
